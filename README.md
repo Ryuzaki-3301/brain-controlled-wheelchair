@@ -1,12 +1,5 @@
-██████  ██    ██ ██    ██ ███████  █████  ██   ██ ██ 
-██   ██  ██  ██  ██    ██    ███  ██   ██ ██  ██  ██ 
-██████    ████   ██    ██   ███   ███████ █████   ██ 
-██   ██    ██    ██    ██  ███    ██   ██ ██  ██  ██ 
-██   ██    ██     ██████  ███████ ██   ██ ██   ██ ██ 
-                                                     
+                
                                                      
-                                                
-
 This project is made by Ryuzaki.
 This was a project orginally made for a international-level robotics contest (which shall remain un-named for my privacy since I won the competition.) 
 This project is about a EEG wave controlled wheelchair.
