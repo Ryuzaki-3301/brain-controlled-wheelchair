@@ -1,3 +1,4 @@
+// This is control the wheelchair.
    #define BAUDRATE 57600
  
 const int MotR_A = 3;     
