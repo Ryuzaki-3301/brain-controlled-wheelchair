@@ -1,4 +1,3 @@
-
 #ifndef THINKGEAR_H_
 #define THINKGEAR_H_
 
