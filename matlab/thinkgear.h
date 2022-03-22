@@ -1,11 +1,4 @@
-/*
- * @(#)thinkgear.h    4.2    Sep 28, 2009
- *
- * Copyright (c) 2008-2009 NeuroSky, Inc. All Rights Reserved
- * NEUROSKY PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- */
 
-/* Ensure this header is only included once */
 #ifndef THINKGEAR_H_
 #define THINKGEAR_H_
 
